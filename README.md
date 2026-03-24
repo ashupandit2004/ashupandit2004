@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashu Pandit</h1>
-<h3 align="center">AI Engineer | Data Science | Full Stack Developer</h3>
+<h3 align="center">AI Learner | Software Devloper </h3>
 
 🚀 Building Real AI Projects  
 📊 Love Data Analytics & Machine Learning  
