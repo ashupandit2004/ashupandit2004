@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 Tech Stack
-Python | MySQL | Excel|
+Python | MySQL | Tkinter | Excel |
 
 ---
 
