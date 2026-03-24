@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 Tech Stack
-Python | FastAPI | MySQL | Power BI | Tableau | React | AI/ML
+Python | MySQL | Excel|
 
 ---
 
